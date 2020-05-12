@@ -1,0 +1,86 @@
+
+<div class="alert alert-danger" *ngIf="errors.length > 0">
+  <h3 id="msgRetorno">Opa! Alguma coisa não deu certo:</h3>
+  <ul>
+    <li *ngFor="let error of errors">{{ error }}</li>
+  </ul>
+</div>
+<main role="main" class="pb-3">
+  <h3 style="padding-top: 50px">Anúncios </h3>
+  <hr>
+  <div class="row">
+    <div class="col-md-10">
+      <form (ngSubmit)="save()" [formGroup]="formulario">
+        <div class="row">
+          <div class="col-sm-2">
+            <div class="form-group" [ngClass]="aplicaCssErro('Marca')">
+              <label for="marca" class="control-label">Marca</label>
+              <!-- <select class="form-control" formControlName="Marca" (change) ="getModel($event.target.value)">
+                <option *ngFor="let mark of makes" [value]="mark.Id" >{{ mark.Name }}</option>
+              </select> -->
+
+              <input formControlName="Marca" class="form-control" type="text">
+
+            </div>
+          </div>
+
+          <div class="col-sm-2">
+            <div class="form-group" [ngClass]="aplicaCssErro('Modelo')">
+              <label for="modelo" class="control-label">Modelo</label>
+              <!-- <select class="form-control" formControlName="Modelo" (change) ="getVersion($event.target.value)">
+                <option *ngFor="let model of models" [value]="model.Id" >{{ model.Name }}</option>
+              </select> -->
+              <input formControlName="Modelo" class="form-control" type="text">
+            </div>
+          </div>
+
+          <div class="col-sm-2">
+            <div class="form-group" [ngClass]="aplicaCssErro('Versao')">
+              <label for="versao" class="control-label">Versão</label>
+              <!-- <select class="form-control" formControlName="Versao">
+                <option *ngFor="let version of versions" [value]="version.Name" >{{ version.Name }}</option>
+              </select> -->
+              <input formControlName="Versao" class="form-control" type="text">
+            </div>
+          </div>
+
+          <div class="col-sm-2">
+            <div class="form-group" [ngClass]="aplicaCssErro('Ano')">
+              <label class="control-label" for="Name">Ano</label>
+              <input formControlName="Ano" class="form-control" type="text">
+            </div>
+          </div>
+
+          <div class="col-sm-2">
+            <div class="form-group" [ngClass]="aplicaCssErro('Quilometragem')">
+              <label class="control-label" for="Name">Quilometragem</label>
+              <input formControlName="Quilometragem" class="form-control" type="text">
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="form-group" [ngClass]="aplicaCssErro('Observacao')">
+              <label for="Observacao" class="control-label">Observação</label>
+              <textarea formControlName="Observacao" rows="5"  class="form-control"> </textarea>
+            </div>
+          </div>
+        </div>
+
+        <div class="form-actions form-group">
+          <div class="row">
+            <div class="col-sm-12">
+              <input type="submit" value="Salvar" class="btn btn-primary" style ="margin-right: 2px;" >
+              <a class="btn btn-warning" [routerLink]="" (click)="onClose()">Voltar</a>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</main>
+
+
+
+
