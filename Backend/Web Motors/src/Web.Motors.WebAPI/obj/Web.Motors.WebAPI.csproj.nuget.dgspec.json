@@ -1,0 +1,358 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.WebAPI\\Web.Motors.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Data\\Web.Motors.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Data\\Web.Motors.Data.csproj",
+        "projectName": "Web.Motors.Data",
+        "projectPath": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Data\\Web.Motors.Data.csproj",
+        "packagesPath": "C:\\Users\\solid\\.nuget\\packages\\",
+        "outputPath": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\solid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Domain\\Web.Motors.Domain.csproj": {
+                "projectPath": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Domain\\Web.Motors.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Domain\\Web.Motors.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Domain\\Web.Motors.Domain.csproj",
+        "projectName": "Web.Motors.Domain",
+        "projectPath": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Domain\\Web.Motors.Domain.csproj",
+        "packagesPath": "C:\\Users\\solid\\.nuget\\packages\\",
+        "outputPath": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\solid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Infrastructure\\Web.Motors.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Infrastructure\\Web.Motors.Infrastructure.csproj",
+        "projectName": "Web.Motors.Infrastructure",
+        "projectPath": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Infrastructure\\Web.Motors.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\solid\\.nuget\\packages\\",
+        "outputPath": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\solid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Service\\Web.Motors.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Service\\Web.Motors.Service.csproj",
+        "projectName": "Web.Motors.Service",
+        "projectPath": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Service\\Web.Motors.Service.csproj",
+        "packagesPath": "C:\\Users\\solid\\.nuget\\packages\\",
+        "outputPath": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\solid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Data\\Web.Motors.Data.csproj": {
+                "projectPath": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Data\\Web.Motors.Data.csproj"
+              },
+              "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Domain\\Web.Motors.Domain.csproj": {
+                "projectPath": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Domain\\Web.Motors.Domain.csproj"
+              },
+              "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Infrastructure\\Web.Motors.Infrastructure.csproj": {
+                "projectPath": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Infrastructure\\Web.Motors.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.WebAPI\\Web.Motors.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.WebAPI\\Web.Motors.WebAPI.csproj",
+        "projectName": "Web.Motors.WebAPI",
+        "projectPath": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.WebAPI\\Web.Motors.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\solid\\.nuget\\packages\\",
+        "outputPath": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\solid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Domain\\Web.Motors.Domain.csproj": {
+                "projectPath": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Domain\\Web.Motors.Domain.csproj"
+              },
+              "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Service\\Web.Motors.Service.csproj": {
+                "projectPath": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Service\\Web.Motors.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

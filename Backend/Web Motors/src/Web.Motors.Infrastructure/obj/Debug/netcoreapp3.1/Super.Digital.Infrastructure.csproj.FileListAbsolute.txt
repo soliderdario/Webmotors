@@ -1,0 +1,9 @@
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Infrastructure\bin\Debug\netcoreapp3.1\Super.Digital.Infrastructure.deps.json
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Infrastructure\bin\Debug\netcoreapp3.1\Super.Digital.Infrastructure.dll
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Infrastructure\bin\Debug\netcoreapp3.1\Super.Digital.Infrastructure.pdb
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Infrastructure\obj\Debug\netcoreapp3.1\Super.Digital.Infrastructure.csproj.CoreCompileInputs.cache
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Infrastructure\obj\Debug\netcoreapp3.1\Super.Digital.Infrastructure.AssemblyInfoInputs.cache
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Infrastructure\obj\Debug\netcoreapp3.1\Super.Digital.Infrastructure.AssemblyInfo.cs
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Infrastructure\obj\Debug\netcoreapp3.1\Super.Digital.Infrastructure.dll
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Infrastructure\obj\Debug\netcoreapp3.1\Super.Digital.Infrastructure.pdb
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Infrastructure\obj\Debug\netcoreapp3.1\Super.Digital.Infrastructure.csprojAssemblyReference.cache

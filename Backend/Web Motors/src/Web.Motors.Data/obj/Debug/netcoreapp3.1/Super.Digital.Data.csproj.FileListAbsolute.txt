@@ -1,0 +1,15 @@
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Data\bin\Debug\netcoreapp3.1\Super.Digital.Data.deps.json
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Data\bin\Debug\netcoreapp3.1\Super.Digital.Data.runtimeconfig.json
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Data\bin\Debug\netcoreapp3.1\Super.Digital.Data.runtimeconfig.dev.json
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Data\bin\Debug\netcoreapp3.1\Super.Digital.Data.dll
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Data\bin\Debug\netcoreapp3.1\Super.Digital.Data.pdb
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Data\bin\Debug\netcoreapp3.1\Super.Digital.Domain.dll
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Data\bin\Debug\netcoreapp3.1\Super.Digital.Domain.pdb
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Data\obj\Debug\netcoreapp3.1\Super.Digital.Data.csprojAssemblyReference.cache
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Data\obj\Debug\netcoreapp3.1\Super.Digital.Data.csproj.CoreCompileInputs.cache
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Data\obj\Debug\netcoreapp3.1\Super.Digital.Data.AssemblyInfoInputs.cache
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Data\obj\Debug\netcoreapp3.1\Super.Digital.Data.AssemblyInfo.cs
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Data\obj\Debug\netcoreapp3.1\Super.Digital.Data.csproj.CopyComplete
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Data\obj\Debug\netcoreapp3.1\Super.Digital.Data.dll
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Data\obj\Debug\netcoreapp3.1\Super.Digital.Data.pdb
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Data\obj\Debug\netcoreapp3.1\Super.Digital.Data.genruntimeconfig.cache

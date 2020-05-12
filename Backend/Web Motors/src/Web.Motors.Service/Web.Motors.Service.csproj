@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Web.Motors.Data\Web.Motors.Data.csproj" />
+    <ProjectReference Include="..\Web.Motors.Domain\Web.Motors.Domain.csproj" />
+    <ProjectReference Include="..\Web.Motors.Infrastructure\Web.Motors.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

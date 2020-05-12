@@ -1,0 +1,8 @@
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Domain\bin\Debug\netcoreapp3.1\Super.Digital.Domain.deps.json
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Domain\bin\Debug\netcoreapp3.1\Super.Digital.Domain.dll
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Domain\bin\Debug\netcoreapp3.1\Super.Digital.Domain.pdb
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Domain\obj\Debug\netcoreapp3.1\Super.Digital.Domain.csproj.CoreCompileInputs.cache
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Domain\obj\Debug\netcoreapp3.1\Super.Digital.Domain.AssemblyInfoInputs.cache
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Domain\obj\Debug\netcoreapp3.1\Super.Digital.Domain.AssemblyInfo.cs
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Domain\obj\Debug\netcoreapp3.1\Super.Digital.Domain.dll
+C:\lixo\FCamara\Backend\Super Digital\src\Super.Digital.Domain\obj\Debug\netcoreapp3.1\Super.Digital.Domain.pdb

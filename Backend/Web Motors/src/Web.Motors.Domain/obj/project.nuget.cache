@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NdQj32HnoSvIhrXsVTk4v3uAsbd76BNZvoDFlFrtEp9jPCKhUUGiV50BNuiMZg5LqmAXM1nDvot+VAZ0UCynGA==",
+  "success": true,
+  "projectFilePath": "C:\\lixo\\Webmotors\\Backend\\Web Motors\\src\\Web.Motors.Domain\\Web.Motors.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\solid\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\solid\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

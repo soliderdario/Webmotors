@@ -1,0 +1,17 @@
+C:\lixo\Webmotors\Backend\Web Motors\src\Super.Digital.Domain\bin\Debug\netcoreapp3.1\Web.Motors.Domain.deps.json
+C:\lixo\Webmotors\Backend\Web Motors\src\Super.Digital.Domain\bin\Debug\netcoreapp3.1\Web.Motors.Domain.dll
+C:\lixo\Webmotors\Backend\Web Motors\src\Super.Digital.Domain\bin\Debug\netcoreapp3.1\Web.Motors.Domain.pdb
+C:\lixo\Webmotors\Backend\Web Motors\src\Super.Digital.Domain\obj\Debug\netcoreapp3.1\Web.Motors.Domain.csproj.CoreCompileInputs.cache
+C:\lixo\Webmotors\Backend\Web Motors\src\Super.Digital.Domain\obj\Debug\netcoreapp3.1\Web.Motors.Domain.AssemblyInfoInputs.cache
+C:\lixo\Webmotors\Backend\Web Motors\src\Super.Digital.Domain\obj\Debug\netcoreapp3.1\Web.Motors.Domain.AssemblyInfo.cs
+C:\lixo\Webmotors\Backend\Web Motors\src\Super.Digital.Domain\obj\Debug\netcoreapp3.1\Web.Motors.Domain.dll
+C:\lixo\Webmotors\Backend\Web Motors\src\Super.Digital.Domain\obj\Debug\netcoreapp3.1\Web.Motors.Domain.pdb
+C:\lixo\Webmotors\Backend\Web Motors\src\Web.Motors.Domain\bin\Debug\netcoreapp3.1\Web.Motors.Domain.deps.json
+C:\lixo\Webmotors\Backend\Web Motors\src\Web.Motors.Domain\bin\Debug\netcoreapp3.1\Web.Motors.Domain.dll
+C:\lixo\Webmotors\Backend\Web Motors\src\Web.Motors.Domain\bin\Debug\netcoreapp3.1\Web.Motors.Domain.pdb
+C:\lixo\Webmotors\Backend\Web Motors\src\Web.Motors.Domain\obj\Debug\netcoreapp3.1\Web.Motors.Domain.csproj.CoreCompileInputs.cache
+C:\lixo\Webmotors\Backend\Web Motors\src\Web.Motors.Domain\obj\Debug\netcoreapp3.1\Web.Motors.Domain.AssemblyInfoInputs.cache
+C:\lixo\Webmotors\Backend\Web Motors\src\Web.Motors.Domain\obj\Debug\netcoreapp3.1\Web.Motors.Domain.AssemblyInfo.cs
+C:\lixo\Webmotors\Backend\Web Motors\src\Web.Motors.Domain\obj\Debug\netcoreapp3.1\Web.Motors.Domain.dll
+C:\lixo\Webmotors\Backend\Web Motors\src\Web.Motors.Domain\obj\Debug\netcoreapp3.1\Web.Motors.Domain.pdb
+C:\lixo\Webmotors\Backend\Web Motors\src\Web.Motors.Domain\obj\Debug\netcoreapp3.1\Web.Motors.Domain.csprojAssemblyReference.cache
